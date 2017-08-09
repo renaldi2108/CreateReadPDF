@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CreateReadPDF</string>
+    <string name="openpdf">Open PDF</string>
+    <string name="convertpdf">Convert PDF</string>
+
+    <string name="kontentext"></string>
+    <string name="filepath"></string>
+</resources>
